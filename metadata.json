@@ -1,0 +1,6 @@
+{
+  "name": "Panic Mode",
+  "description": "A high-urgency productivity agent for people behind on deadlines, delivering ruthless triage, scoping-down, and damage-control drafts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
